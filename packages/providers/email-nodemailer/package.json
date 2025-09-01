@@ -58,10 +58,10 @@
   },
   "dependencies": {
     "lodash": "4.17.21",
-    "nodemailer": "6.10.1"
+    "nodemailer": "7.0.6"
   },
   "devDependencies": {
-    "@types/nodemailer": "6.4.7",
+    "@types/nodemailer": "7.0.1",
     "eslint-config-custom": "5.23.1",
     "tsconfig": "5.23.1"
   },
