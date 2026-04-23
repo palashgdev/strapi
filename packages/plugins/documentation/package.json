@@ -77,13 +77,13 @@
     "path-to-regexp": "8.4.2",
     "react-intl": "6.6.2",
     "swagger-ui-dist": "4.19.0",
-    "yaml": "1.10.2",
+    "yaml": "1.10.3",
     "yup": "0.32.9"
   },
   "devDependencies": {
     "@apidevtools/swagger-parser": "^10.1.0",
     "@strapi/admin-test-utils": "5.42.1",
-    "@strapi/strapi": "5.42.1",
+    "@strapi/strapi": "5.43.0",
     "@strapi/types": "5.42.1",
     "@testing-library/react": "16.3.0",
     "@testing-library/user-event": "14.6.1",
